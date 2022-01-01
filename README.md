@@ -1,6 +1,6 @@
 # Mini-PS4-Payload
 Add
-Payloads 9.00
+payloads (3.50.9.00)
 
 golodhen 2.0b2 9.00 
 toolbox 119 9.00
