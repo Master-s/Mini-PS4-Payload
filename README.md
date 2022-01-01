@@ -1,10 +1,10 @@
 # Mini-PS4-Payload
-.Add
-.New Add Manual Change Port
-.payloads (3.50.9.00)
+#.Add
+#.New Add Manual Change Port
+#.payloads (3.50.9.00)
 
-golodhen 2.0b2 9.00 
-toolbox 119 9.00
+#.golodhen 2.0b2 9.00 
+#.toolbox 119 9.00
 
 ![image](https://user-images.githubusercontent.com/49209220/147840424-1de7d58c-7cf8-4536-8c5a-8e1c277a1dae.png)
 
